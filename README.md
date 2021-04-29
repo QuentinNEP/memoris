@@ -6,4 +6,4 @@ Tinoou
 
 ## Features
 
-1. Players drop their Heads on Death.
+1. Players drop their Heads at Death.
