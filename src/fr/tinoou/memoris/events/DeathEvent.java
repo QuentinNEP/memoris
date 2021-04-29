@@ -1,4 +1,4 @@
-package fr.tinoou.memoris;
+package fr.tinoou.memoris.events;
 
 import org.bukkit.Material;
 import org.bukkit.SkullType;
@@ -10,7 +10,7 @@ import org.bukkit.event.entity.PlayerDeathEvent;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.SkullMeta;
 
-public class eventsListener implements Listener {
+public class DeathEvent implements Listener {
 	
 	@EventHandler
 	public void onDeath(PlayerDeathEvent event) {
