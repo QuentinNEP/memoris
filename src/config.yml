@@ -1,0 +1,12 @@
+messages:
+  join:
+    - "&eSalut mon petit ange &f%PLAYER% &e !"
+    - "&eLe petit &f%PLAYER% &ese connecte :o"
+  quit:
+    - "&cBisous bisous mon ptit copain &f%PLAYER% &c :c"
+    - "&cOUAIS C'EST CA CASSE TOI &f%PLAYER% &c !"
+  death:
+    - "&4WTF &f%PLAYER% &4T'ES MORT C'EST TROP SAD !"
+    - "&4PTDR tro naze &f%PLAYER%"
+
+    
